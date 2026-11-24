@@ -1,0 +1,5 @@
+set tempo 138.0 BPM, transitions 16 bars, bass swap at bar 8
+0:00.00  A_138_Am.mp3
+3:42.59  B_140_Em.mp3  (enters at its bar 1; bass swap 3:56.51; previous track out by 4:10.42; previous track mixed from its bar 129)
+7:25.20  C_136_Gm.mp3  (enters at its bar 1; bass swap 7:39.11; previous track out by 7:53.02; previous track mixed from its bar 129)
+length 11:36.64
